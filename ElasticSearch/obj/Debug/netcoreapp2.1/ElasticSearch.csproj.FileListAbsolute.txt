@@ -1,0 +1,11 @@
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/bin/Debug/netcoreapp2.1/ElasticSearch.deps.json
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/bin/Debug/netcoreapp2.1/ElasticSearch.runtimeconfig.json
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/bin/Debug/netcoreapp2.1/ElasticSearch.runtimeconfig.dev.json
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/bin/Debug/netcoreapp2.1/ElasticSearch.dll
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/bin/Debug/netcoreapp2.1/ElasticSearch.pdb
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/obj/Debug/netcoreapp2.1/ElasticSearch.csprojAssemblyReference.cache
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/obj/Debug/netcoreapp2.1/ElasticSearch.csproj.CoreCompileInputs.cache
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/obj/Debug/netcoreapp2.1/ElasticSearch.AssemblyInfoInputs.cache
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/obj/Debug/netcoreapp2.1/ElasticSearch.AssemblyInfo.cs
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/obj/Debug/netcoreapp2.1/ElasticSearch.dll
+/home/javier/RiderProjects/ElasticSearch/ElasticSearch/obj/Debug/netcoreapp2.1/ElasticSearch.pdb

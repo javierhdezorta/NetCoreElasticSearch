@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "76a503c3a36f5a18c6b65b98fbf1c1c8cb4dace7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ElasticSearch/1.0.0": {
+        "dependencies": {
+          "NEST": "6.3.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "ElasticSearch.dll": {}
+        }
+      },
+      "Elasticsearch.Net/6.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/Elasticsearch.Net.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "NEST/6.3.0": {
+        "dependencies": {
+          "Elasticsearch.Net": "6.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nest.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElasticSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elasticsearch.Net/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3YmOFWeO0ej4K3lh3UOGOXQ/3ogaKV69iI8GYsYItCFGnI3Eg4K2ZwfHq0WsdeQdwmixm2o84oWmskooHBBi+w==",
+      "path": "elasticsearch.net/6.3.0",
+      "hashPath": "elasticsearch.net.6.3.0.nupkg.sha512"
+    },
+    "NEST/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6xATTHrSdC5Lhwjs7Q3Hr6zfQeYuDRtiPf9Y+saXWW/8aIfWN9hCdv+vJiiQ2ThyZryeilLUXZ3aggcGDqObBw==",
+      "path": "nest/6.3.0",
+      "hashPath": "nest.6.3.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    }
+  }
+}
